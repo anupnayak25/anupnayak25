@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]!</h1>
+<h1 align="center">Hi 👋, I'm Anup Nayak!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+MCA+Student;Learning+and+Exploring+world+of+Computer+Science;I+love+solving+real+life+problems+using+code;Let's+build+something+awesome!&center=true&width=500&height=50">
@@ -11,8 +11,8 @@
 - 🎓 MCA Student | Passionate Software Developer  
 - 👨‍💻 I enjoy working on Full Stack Web Development & Database Solutions  
 - 💬 Ask me about **React, Node.js, Firebase, MySQL, Flutter**  
-- 📫 Reach me at: **your-email@gmail.com**  
-- 📄 Know more about me: [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 Reach me at: **mrnayak27@gmail.com**  
+- 📄 Know more about me: [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/anup-nayak-05651b25b/))
 
 ---
 
@@ -40,8 +40,8 @@
 ### 🔗 Connect with Me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="[https://linkedin.com/in/your-profil](https://www.linkedin.com/in/anup-nayak-05651b25b/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:mrnayak27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -49,10 +49,10 @@
 ### 📌 Pinned Projects:
 
 <p align="center">
-  <a href="https://github.com/yourusername/project1">
+  <a href="https://github.com/svvaap/jobhunt4u">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/yourusername/project2">
+  <a href="https://github.com/mrnayak25/carrer_nest">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" />
   </a>
 </p>
