@@ -23,13 +23,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrnayak25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=ffffff" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrnayak25&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anupnayak25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=ffffff" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupnayak25&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnayak25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrnayak25&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupnayak25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupnayak25&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff" width="48%"/>
 </div>
 
 <div align="center">
@@ -84,7 +84,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup-nayak-05651b25b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrnayak27@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrnayak25)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anupnayak25)
 
 </div>
 
@@ -101,7 +101,7 @@
 <a href="https://github.com/svvaap/jobhunt4u">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=svvaap&repo=jobhunt4u&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=667eea" />
 </a>
-<a href="https://github.com/mrnayak25/carrer_nest">
+<a href="https://github.com/anupnayak25/carrer_nest">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrnayuk25&repo=carrer_nest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff&icon_color=667eea" />
 </a>
 
@@ -139,7 +139,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrnayak25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anupnayak25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
 </div>
 
 <img width="100%" height="2" src="https://github.com/user-attachments/assets/74038dd8-e0e4-4a5b-a7c2-198df1a86135">
@@ -147,7 +147,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrnayak25&custom_title=Anup's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area_color=667eea&title_color=ffffff&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anupnayak25&custom_title=Anup's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area_color=667eea&title_color=ffffff&area=true" width="100%"/>
 </div>
 
 <img width="100%" height="2" src="https://github.com/user-attachments/assets/74038dd8-e0e4-4a5b-a7c2-198df1a86135">
@@ -199,7 +199,7 @@ Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░
 ## 🎨 GitHub Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/mrnayak25?template=classic&config.timezone=Asia%2FKolkata" />
+  <img src="https://metrics.lecoq.io/anupnayak25?template=classic&config.timezone=Asia%2FKolkata" />
 </div>
 
 <img width="100%" height="2" src="https://github.com/user-attachments/assets/74038dd8-e0e4-4a5b-a7c2-198df1a86135">
@@ -207,7 +207,7 @@ Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/mrnayak25/mrnayak25/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/anupnayak25/anupnayak25/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <img width="100%" height="2" src="https://github.com/user-attachments/assets/74038dd8-e0e4-4a5b-a7c2-198df1a86135">
@@ -224,7 +224,7 @@ Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-[![Spotify](https://novatorem-mrnayak25.vercel.app/api/spotify)](https://open.spotify.com/user/31k6w3kx5km6qt4z5qsjh3tae7yi)
+[![Spotify](https://novatorem-anupnayak25.vercel.app/api/spotify)](https://open.spotify.com/user/31k6w3kx5km6qt4z5qsjh3tae7yi)
 
 </div>
 
@@ -238,7 +238,7 @@ Other        1 hr 15 mins    █░░░░░░░░░░░░░░░░
 
 ---
 
-⭐️ From [Anup Nayak](https://github.com/mrnayak25) | Made with ❤️ and lots of ☕
+⭐️ From [Anup Nayak](https://anupnayak.me) | Made with ❤️ and lots of ☕
 
 </div>
 
