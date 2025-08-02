@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anup Nayak!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+MCA+Student;Learning+and+Exploring+Computer+Science;I+love+solving+real+life+problems+using+code;Full+Stack+Web+Developer;Database+Solutions+Enthusiast;Let's+build+something+awesome!&font=Fira%20Code&center=true&width=600&height=50&color=667eea&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+MCA+Student;Learning+and+Exploring+Computer+Science;I+love+solving+real+life+problems+using+code;Full+Stack+Web+Developer;Let's+build+something+awesome!&font=Fira%20Code&center=true&width=600&height=50&color=667eea&vCenter=true&pause=1000&size=22" />
 </div>
 
 <img width="100%" height="2" src="https://github.com/user-attachments/assets/74038dd8-e0e4-4a5b-a7c2-198df1a86135">
